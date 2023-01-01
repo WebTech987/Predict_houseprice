@@ -14,7 +14,9 @@ create a new environment
 conda create -p venv python==3.9 -y
 '''
 
-setting up the user criterias to dumpt the files into github
+
+**setting up the user criterias to dumpt the files into github**
+
 use the command to set up user and gmail to commit the repository directly into our git-hub account
 Note: remember to use the same email that has been used in github account
 '''
